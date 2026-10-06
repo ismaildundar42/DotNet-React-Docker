@@ -14,6 +14,11 @@
 
 <br />
 
+<!-- Dashboard Hero Preview -->
+<p align="center">
+  <img src="./docs/images/dashboard-preview.jpg" alt="DockerLearning Modern UI Dashboard" width="100%" style="border-radius: 14px; box-shadow: 0 20px 50px rgba(0,0,0,0.6);" />
+</p>
+
 [Mimarisi](#-sistem-mimarisi) •
 [Özellikler](#-öne-çıkan-özellikler) •
 [Hızlı Başlangıç](#-hızlı-başlangıç-kurulum) •
@@ -65,6 +70,10 @@ Tüm sistem, tek bir `docker compose up` komutuyla ayağa kalkar; frontend, back
 ---
 
 ## 🏗️ Sistem Mimarisi
+
+<p align="center">
+  <img src="./docs/images/architecture-diagram.jpg" alt="Docker Multi-Container 3D Architecture" width="100%" style="border-radius: 14px; box-shadow: 0 15px 40px rgba(0,0,0,0.5);" />
+</p>
 
 ```mermaid
 graph TD
@@ -164,6 +173,8 @@ docker compose up --build -d
 
 ```plaintext
 DockerLearning/
+├── docs/
+│   └── images/                   # README ve vitrin görselleri (Dashboard, Mimari)
 ├── backend/
 │   └── DockerLearning.Api/
 │       ├── Controllers/          # API Controller katmanı (ProductsController, etc.)
