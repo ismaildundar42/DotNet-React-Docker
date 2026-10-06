@@ -16,7 +16,7 @@
 
 <!-- Dashboard Hero Preview -->
 <p align="center">
-  <img src="./docs/images/dashboard-preview.jpg" alt="DockerLearning Modern UI Dashboard" width="100%" style="border-radius: 14px; box-shadow: 0 20px 50px rgba(0,0,0,0.6);" />
+  <img src="./docs/images/dashboard-preview.png" alt="DockerLearning Modern UI Dashboard" width="100%" style="border-radius: 14px; box-shadow: 0 20px 50px rgba(0,0,0,0.6);" />
 </p>
 
 [Mimarisi](#-sistem-mimarisi) •
